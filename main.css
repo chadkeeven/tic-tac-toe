@@ -1,0 +1,51 @@
+body {
+	margin: 0px
+}
+.container {
+	height: 1000px;
+	margin:5%;
+}
+header {
+	height: 20%;
+	width: 100%;
+	background-color: red;
+
+}
+main {
+	height: 80%;
+	width: 100%;
+	background-color: blue;
+}
+hr {
+	border: solid 5px;
+	color: red;
+	margin: 0px;
+}
+
+.row-2 {
+	height: 40%;
+	width: 100%;
+}
+
+.row-3 {
+	display: inline-flex;
+	height: 32.2%;
+	width: 100%;
+}
+.col-3{
+	display: inline-flex;
+	height: 100%;
+	width: 100%;
+}
+p{
+	width: inherit;
+	font-size: 200px;
+	text-align: center;
+	margin: 0;
+}
+.xxx{
+	width: 100%;
+	font-size: 200px;
+	text-align: center;
+	margin: 0;
+}
